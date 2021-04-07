@@ -3,7 +3,7 @@ treated_data/
 .allmerger.xlsx
 /exploring_installments_payments.ipynb
 engineering_nn/
-exploring_POS_CASH_balance.ipynb
+exploring_POS_CASH_balance
 exploring_application_train.ipynb
 merging_data.ipynb
 exploring_credit_card_balance.ipynb
