@@ -1,0 +1,12 @@
+data/
+treated_data/
+.allmerger.xlsx
+engineering_nn/
+exploring_application_train.ipynb
+exploring_credit_card_balance.ipynb
+exploring_data.ipynb
+exploring_installments_payments.ipynb
+x-special/nautilus-clipboard
+copy
+file:///home/mateus/data-science/home-credit/exploring_POS_CASH_balance.ipynb
+
