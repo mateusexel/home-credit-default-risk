@@ -1,10 +1,10 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/mateusexel/home-credit-default-risk/blob/master/License.md)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/mateusexel/home-credit-default-risk/blob/master/LICENSE)
 
 
 # Home-Credit-Default-Risk
 Predicting how capable each applicant is of repaying a loan (Kaggle Challenge).
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.credit.com%2Fblog%2Fwp-content%2Fuploads%2F2014%2F08%2Fdown-payment-for-a-house.jpg&imgrefurl=https%3A%2F%2Fwww.credit.com%2Fblog%2Fhow-much-of-a-down-payment-do-you-really-need-to-buy-a-house-93579%2F&tbnid=5DMVzIAUJIBUaM&vet=12ahUKEwihzrDrhZDwAhVQNLkGHZ__BeQQMygNegUIARC-AQ..i&docid=zuzCAJZqU7nIPM&w=1360&h=872&q=house%20credit&ved=2ahUKEwihzrDrhZDwAhVQNLkGHZ__BeQQMygNegUIARC-AQ" alt="loan" width="600" height="400"/>
+<img src="https://github.com/mateusexel/home-credit-default-risk/blob/master/home-credit-image.jpeg" alt="loan" width="600" height="400"/>
 
 ## Getting Started
 
@@ -70,7 +70,7 @@ Shift + Enter
  
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/mateusexel/home-credit-default-risk/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
